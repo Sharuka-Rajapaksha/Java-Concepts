@@ -17,12 +17,13 @@ interface B {
  * one class can inherit two or more interfaces
  */
 
-// Example 2: Class inherit a class AND class inherit two interfaces
+// Example 2: One Class inherit another class AND one class inherit two
+// Interfaces Class
 class C extends A1 implements A, B {
 
 }
 
-// Explame 2: Class inherit two interfaces
+// Explame 2: One Class inherit two interfaces
 class C1 implements A, B {
 
 }
