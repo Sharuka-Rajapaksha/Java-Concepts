@@ -1,5 +1,7 @@
 ## Getting Started with Java Concepts
 
+Vision: Share Java Programming knowledge with everyone!!!
+
 Here exhibit all my Java Concepts learning and explain the concepts. So, anyone who prefers to learn Java can utilize this repository!
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
