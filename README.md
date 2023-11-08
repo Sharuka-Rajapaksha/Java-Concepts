@@ -1,6 +1,6 @@
 ## Getting Started with Java Concepts
 
-<h3>Vision: Share Java Programming knowledge with everyone!!!</h3>
+<h3>Vision: Share Java knowledge with everyone!!!</h3>
 
 Here exhibit all my Java Concepts learning and explain the concepts. So, anyone who prefers to learn Java can utilize this repository!
 
