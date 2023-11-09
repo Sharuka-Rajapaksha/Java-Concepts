@@ -26,6 +26,7 @@ public class ThreadCreate {
         Thread o = new Thread(obj);
         o.start();
 
+        System.out.println("Multi Threading Part 1 is Completed");
     }
 
 }
