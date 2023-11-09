@@ -6,11 +6,9 @@ class student extends Object {
     int age = 25;
 
     void run() {
-
     }
 
     void eat() {
-
     }
 
 }
