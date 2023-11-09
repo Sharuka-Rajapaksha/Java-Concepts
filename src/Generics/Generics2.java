@@ -1,5 +1,7 @@
 package Generics;
 
+// import java.math.BigDecimal;
+
 public class Generics2<T> {
 
     // Normal array
@@ -31,8 +33,9 @@ public class Generics2<T> {
         // Here we don't need tp dp type casting because from the above it automatically
         // do the type casting
 
+        Generics2<Integer> obj = new Generics2();
+
         try {
-            Generics2<Integer> obj = new Generics2();
 
             obj.arr[0] = 23;
             obj.arr[1] = 45;
@@ -45,7 +48,9 @@ public class Generics2<T> {
                 int number = obj.arr[i];
                 System.out.println(number);
             }
-        } catch (ClassCastException e) {
+        }
+
+        catch (ClassCastException e) {
             System.out.println(e);
         }
 
