@@ -6,6 +6,7 @@ Here exhibit all the Java basic concepts. So, anyone who prefers to learn Java c
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
+
 <h2> Folder Structure </h2>
 The workspace contains two folders by default, where:
 
