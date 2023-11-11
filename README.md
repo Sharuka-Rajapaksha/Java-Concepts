@@ -1,13 +1,12 @@
 ## Getting Started with Java Concepts
 
-## Vision: Share the basic Java concepts!
+<h2> Vision: Share the basic Java concepts! </h2> 
 
 Here exhibit all the Java basic concepts. So, anyone who prefers to learn Java can utilize this repository!
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
-
+<h2> Folder Structure </h2>
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources. All the source codes are included here.
