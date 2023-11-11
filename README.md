@@ -1,4 +1,4 @@
-## Java for Everyone!
+## Java for Everyone
 
 <h2> Vision: Share the basic Java concepts! </h2> 
 
