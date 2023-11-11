@@ -37,16 +37,19 @@ public class Main {
                 System.out.println(arr + "\n");
 
                 //Check if the give number is in the array or not
-                System.out.println(arr.contains(30));
-                System.out.println(arr.contains(34) + "\n");
+                System.out.println("Is the number 30 is a value in a Array?(True/False): " + arr.contains(30));
+                System.out.println("Is the number 34 is a value in a Array?(True/False): " + arr.contains(34) + "\n");
 
                 arr.set(2, 56);
                 //Get the valaue for the given index
                 System.out.println(arr.get(2));
 
+                //Get the Index from the given value
                 System.out.println("\nIndex of value 56 is: " + arr.indexOf(56));
-
+                
+                //Check the array size
                 System.out.println("\nSize of the array is: " + arr.size() + "\n");
+
 
                 System.out.println("1. First way to get Values of the Array in order: ");
                 //Access to the all the elements in the array one by one        
