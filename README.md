@@ -14,9 +14,5 @@ The workspace contains two folders by default, where:
 - `lib`: the folder to maintain dependencies.
 - `bin`: The compiled output files will be generated in the `bin` folder by default.
   
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-
-Note: This is a self-learning process to learn Java Concepts.
+## Purpose
+This is a self-learning process to learn Java Concepts.
