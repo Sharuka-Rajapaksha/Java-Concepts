@@ -1,6 +1,6 @@
 ## Getting Started with Java Concepts
 
-<h3>Vision: Share the basic Java concepts!!!</h3>
+## Vision: Share the basic Java concepts!
 
 Here exhibit all the Java basic concepts. So, anyone who prefers to learn Java can utilize this repository!
 
@@ -12,6 +12,7 @@ The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources. All the source codes are included here.
 - `lib`: the folder to maintain dependencies.
+- `Comments`: All the methods are explained with the comments.
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
