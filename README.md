@@ -1,14 +1,8 @@
-## Java for Everyone
+## Java Concepts
 
-<h2> Vision: Share the basic Java concepts! </h2> 
-
-Here exhibit all the Java basic concepts. So, anyone who prefers to learn Java can utilize this repository!
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
+<h2> This project is developed to Learn the Java concepts, Git Version Control & GitHub </h2> 
 
 <h2> Folder Structure </h2>
-The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources. All the source codes are included here.
 - `lib`: the folder to maintain dependencies.
