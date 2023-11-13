@@ -18,7 +18,6 @@
 
 <p>If you don't have Java on your computer follow the below steps to Java Installation.</p>
 
-  
 <h2> Java Installation</h2>
 <p>Install Java for Visual Studio Code from <a href ="https://code.visualstudio.com/docs/languages/java">here.</a></p>
 <p> When you are downloading the setup choose the Java version based on Windows or macOS. </p>
